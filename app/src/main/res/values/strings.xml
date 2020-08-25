@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CampaignEvent</string>
+    <string name="header1">NAME OF CANDIDATE AND PARTY SYMBOL</string>
+    <string name="reg">Register</string>
+    <string name="contact">Text Contact</string>
+    <string name="event">Campaign Event</string>
+    <string name="about">About Candidate</string>
+</resources>
